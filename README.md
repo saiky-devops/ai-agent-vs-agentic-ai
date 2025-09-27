@@ -44,3 +44,8 @@ python3 ai-agent_tool_calling.py
 ```bash
 python3 ai-agent_Agentic.py
 ```
+
+**Here is the prompot**
+
+“Plan me a 3-day trip to Australia (Nov 1 — Nov 3, 2025). Include day-wise itinerary with activities, estimated costs, and travel tips. Also give me the latest open hours and ticket prices for Luna Park, Opera House the expected weather during those dates, and suggest alternatives if it rains. Book recommended attractions where possible.”
+
