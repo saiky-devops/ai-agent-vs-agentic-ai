@@ -1,0 +1,7 @@
+openai>=1.0.0
+python-dotenv
+langchain
+langchain-openai
+langchain-community
+gradio
+requests
